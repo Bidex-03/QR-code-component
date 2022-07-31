@@ -38,6 +38,7 @@ main{
     max-width: 20rem;
     height: 30rem;
     border-radius: 10px;
+    overflow: hidden;
 }
 
 .image img{
